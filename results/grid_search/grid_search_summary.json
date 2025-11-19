@@ -1,0 +1,16 @@
+{
+    "best_combination": {
+        "num_conv_layers": 3,
+        "conv_channels": 32,
+        "fc_layers": [
+            512
+        ],
+        "learning_rate": 0.001
+    },
+    "best_val_loss": 0.08916095718741417,
+    "best_val_metrics": {
+        "mse": 0.09122342616319656,
+        "mae": 0.22980238497257233,
+        "r2": 0.9070183634757996
+    }
+}
